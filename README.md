@@ -1,0 +1,2 @@
+# technocolabs_prerequisite_DataManipulation
+Solved excercises from kaggle
